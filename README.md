@@ -9,8 +9,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sensorario&label=profile+views"/>
   <img src="https://img.shields.io/github/followers/sensorario?label=Followers&style=for-the-badge"/>
-  <img src="https://metrics.lecoq.io/sensorario?template=classic&config.timezone=Europe%2FRome"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sensorario&theme=calm"/>
 </p>
 
 ---
