@@ -37,19 +37,6 @@
 
 ---
 
-<h2>📈 GitHub Stats</h2>
-
-<p align="center">
-  <a href="https://github.com/sensorario">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sensorario&langs_count=8&theme=calm&layout=compact" width="48%"/>
-  </a>
-  <a href="https://github.com/sensorario">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=sensorario&hide=prs&count_private=true&show_icons=true&theme=calm"  width="48%" />
-  </a>
-</p>
-
----
-
 <h2>🌐 Connect with me</h2>
 <p>
   <a href="https://www.linkedin.com/in/sensorario/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
