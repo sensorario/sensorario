@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there, I'm Simone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -53,9 +52,9 @@
 
 <h2>🌐 Connect with me</h2>
 <p>
-  <a href="https://twitter.com/sensorario"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sensorario/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://sensorario.dev"><img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=about-dot-me&logoColor=white"/></a>
+  <a href="https://simonegentili.com"><img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=about-dot-me&logoColor=white"/></a>
+  <a href="https://www.amazon.com/author/sensorario"><img src="https://img.shields.io/badge/Amazon%20Author-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/></a>
 </p>
 
 ---
