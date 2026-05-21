@@ -17,10 +17,9 @@
 
 <ul>
   <li>👨‍💻 Full Stack Developer & Open Source lover</li>
-  <li>🌱 I’m currently learning: <b>AI, Cloud, and DevOps</b></li>
-  <li>💬 Ask me about <b>PHP, JavaScript, Python, Docker, Linux</b></li>
+  <li>🌱 I’m currently writing some books about: <b>JavaScript, TypeScript and React</b></li>
+  <li>💬 Ask me about <b>PHP and *Script</b></li>
   <li>📫 How to reach me: <a href="mailto:sensorario@gmail.com">sensorario@gmail.com</a></li>
-  <li>⚡ Fun fact: I love automating boring stuff!</li>
 </ul>
 
 ---
